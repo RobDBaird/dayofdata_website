@@ -49,7 +49,7 @@ countdownscript: |
     <script src="https://cdn.logwork.com/widget/countdown.js"></script><a href="https://logwork.com/countdown-71sb" class="countdown-timer" data-timezone="America/New_York" data-date="2026-10-17 08:00">Countdown</a>
  
 speakertext: 
-speakerlisturl: https://sessionize.com/api/v2/0lk9zs7i/view/Speakers
+speakerlisturl: https://sessionize.com/api/v2/0lk9zs7i/view/SpeakerWall
 callforspeakersurl: https://sessionize.com/day-of-data-orlando-2026/ 
 callforspeakers: true
 callforspeakersenddate: 2026-08-10
